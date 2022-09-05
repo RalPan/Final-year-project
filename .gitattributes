@@ -7,7 +7,6 @@ git[[:space:]]config[[:space:]]--global[[:space:]]user.email[[:space:]]raluca1pa
 git[[:space:]]config[[:space:]]--global[[:space:]]user.name[[:space:]]RalPan
 git[[:space:]]commit[[:space:]]-m[[:space:]]add filter=lfs diff=lfs merge=lfs -text
 “.csv
-
 git[[:space:]]add[[:space:]].gitattributes
 [[:space:]]add.gitattributes
 [[:space:]]git[[:space:]]lfs[[:space:]]track[[:space:]]“.csv filter=lfs diff=lfs merge=lfs -text
